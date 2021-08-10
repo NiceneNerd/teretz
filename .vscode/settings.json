@@ -1,0 +1,10 @@
+{
+    "regexReplaceOnSave.ruleSets": {
+        "md": {
+            "Abbreviation": {
+                "find": "{(.+?)}\\((.+?)\\)",
+                "replace": "<abbr title=\"$2\">$1</abbr>"
+            }
+        }
+    }
+}
