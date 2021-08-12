@@ -7,7 +7,7 @@
 |356|Anath's rebellion[*](#fm2)|
 |428|Oëluthí fully conquered, renamed Anath|
 |697|Aeírwá last of six nations to pledge allegiance to Anath|
-|728|Tereth called by Éleos|
+|728|Tereth called by Eléos|
 |731|Tereth escapes Anath|
 |871|Terethim finish conquering the surrounding islands|
 |872|Terethim invade Anath, destroy the Temple at Drüthu|
