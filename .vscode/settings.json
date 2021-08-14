@@ -6,5 +6,6 @@
                 "replace": "<abbr title=\"$2\">$1</abbr>"
             }
         }
-    }
+    },
+    "files.eol": "\r\n",
 }
