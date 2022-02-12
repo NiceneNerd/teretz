@@ -7,5 +7,5 @@
             }
         }
     },
-    "files.eol": "\r\n",
+    "latex-workshop.chktex.enabled": false
 }
