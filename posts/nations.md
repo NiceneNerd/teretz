@@ -45,6 +45,8 @@ When Addríel was still a small village, Maëkil the Lost led the largest clan o
 
 After the Sign of Wachüthmü, all who wished to explore, flee, or otherwise leave their lands, from Négzam to Maëkendrà, began to pass the Ílloim. Most at first passed by to the west into the woods of Míthaenim. In those forests was a great lake, less only than Oëluímuth, from which flowed a river further to the west, which is called Déan. There were food and water plenteous, and the trees were strong and tall. For almost a generation no settlers there dared clear any part of the wood, but they built dwellings for themselves in and among the trees. After many years the inhabitants began to clear small villages which did not endure. For the trees seemed to rise against them, growing thicker, faster, and taller wherever any had been cut. Though a few villages remained, the Uméthrâim became a people of tree dwellers. They build elaborate cities suspended in the trees so that, for the affluent, the ground became a place only for hunting. The poorest built their houses into the trunks of larger trees or by tying tents together from several trunks. In Uméthrâ Eléos was held in high honor, and His worship never died out. Yet many both rich and poor turned to the worship of the trees, and some of them reputed to be wise men held that Eléos was indeed the Spirit of the Trees.
 
+![Umumdrí](../media/umimdri.png)
+<small>Tree city of Umimdrí</small>
 
 ## 
 
