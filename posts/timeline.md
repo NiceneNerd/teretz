@@ -9,8 +9,9 @@
 |697|Aeírwá last of six nations to pledge allegiance to Anath|
 |728|Tereth called by Eléos|
 |731|Tereth escapes Anath|
+|807|Dráwzaf escapes the first attack from Anath|
 |871|Terethim finish conquering the surrounding islands|
-|872|Terethim invade Anath, destroy the Temple at Drüthu|
+|872|Terethim invade Anath, destroy the Temple at Dríthu|
 |886|Anath fully conquered, renamed Tereth, northwest temple construction begins|
 |890|Northwest temple completed|
 
