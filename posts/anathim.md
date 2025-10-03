@@ -22,6 +22,14 @@ Apart from their power over trade on the seas, behind their Wall of Storms Anath
 
 Since Anath was covered so much in mountain and seashore, they found the growing of crops hard and troublesome. For these they relied on the coastal nations, sometimes by fair trade, sometimes by force, and sometimes by deals in darkness with their pirates.
 
+## Of Anath's Might
+
+The island of Anath was almost unassailable, protected by the magic Wall of Storms that the Anathim erected upon conquering the land. Only once prior to the coming of the Terethim did any manage to invade Anath. One year during the Thermüvû, Namókní, the Impassible Archer from Mormuin, led his men through the Wall by means unknown and scaled the mountain to Dríthu, where they slew all the men at the sacrifice and rescued the infant victims. There Namókní fell, but his men escaped the city and were never seen again.
+
+Anath's greatest power lay in their ships and their magic. The ships patrolled the seas armed with Ílnae, their black fire, which could as easily consume stone and water as familiar fire does wood. No other nation ever found the secret of the black fire. At sea, only those who retreated swiftly survived its use. When a fleet came upon a city on the coast, the city would certainly burn unless the first buildings to alight could be quickly cut off from the rest.
+
+In battle, the greatest magicians would march out ahead of the armies to praises and shouts from their men. Armed with strengthened pride, they would send fires, lightnings, earthquakes, or other deadly perils ahead into the enemy lines. The most terrible of their battles nearly rose to horrors of the Magician's War, though in these cases they were more than once unaccountably defeated.
+
 ---
 
 [[*]](#fm1) In some of the accounts of the Anathim, I have nonetheless used our term "sacrifice" to refer to their rituals of destroying one thing full of magical potential in order to acheive magical outcomes or enhance their magical power.
