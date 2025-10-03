@@ -1,6 +1,6 @@
 # Of the Anathim and Their Empire
 
-When the Anathim had established their control over Oëluthí, they began to raid the surrounding islands. After only nine years of conquest, the Anathim held sway over all the islands and vessels across the Oëluímeth. Their control over the seas soon led to great influence over the coastal nations. The ships of the Anathim guarded the seas, forcing all merchants and other seafarers to pay heavy tolls and tribute. Some who paid the tolls were again assailed by Anathim pirates.
+When the Anathim had established their control over Oëluthí, they began to raid the surrounding islands. After only nine years of conquest, the Anathim held sway over all the islands and vessels across the Oëluímeth. Their control over the seas soon led to great influence over the coastal nations. The ships of the Anathim guarded the seas, forcing all merchants and other seafarers to pay heavy tolls and tribute. Some who paid the tolls were again assailed by Anathim pirates, for whom their rulers had no concern.
 
 In the beginning, many of the nations fought back against the Anathim. Chief among them were Aeírwá and Ménerâch, mighty nations that exercised all their strength to repel Anath's incursions. By their efforts, they held back Anath's sway over the nations for more than a hundred years. But in time Ménerâch's will faltered, and after great further struggle, Aeírwá exhausted their power and faith. Aeírwá made a covenant with Anath and become the last of the great nations to offer allegiance to the Anathim. 
 
@@ -13,6 +13,14 @@ The worship of magicians or magic, a practiced called *Fyüyân*, represented th
 This teaching on magic spread wheresoever Anath's influence did. Some peoples gladly embraced it, while others only gradually obeyed from pressure, fear, or conquest. When Aeírwá submitted to Anath, they abolished all public ceremonies in honor of Eléos. Those faithful to Him were officially told to mind their superstitions in their own homes. Thus the Houses of Eléos began to form in the towns and cities of Aeírwá. At first this was permitted by the kings, who did not happily submit to Anath's will. But in time as the kings forgot their former interest, they began to persecute the Houses and drive them into hiding.
 
 The most abominable teaching of the Anathim was the use of children in magical arts. Because infants and small children embody newness of life, potentiality, and great vitality, they carry great magical weight. The Anathim believed this source of power was necessary for the good of the people. They established many rites and ceremonies to make use of the magical potential in children. Most of these ended with the children's deaths. Of these the <abbr title="Youth Festival">Thermüvû</abbr> was the most famed and feared.
+
+## Of Anath's Economy
+
+Anath's strength from the center of Oëluthí established them with great power over trade and commerce across Anmahta. From tribute and tolls they amassed an immense fortune. Quietly money from their pirates also enriched the rulers in Drithu.
+
+Apart from their power over trade on the seas, behind their Wall of Storms Anath became great in the catching of fish and art of ship-building. All outside ports on Oëluthí found it needful to do business with Anath, and they become very rich by this expertise. Their ships were also known for their magical properties, such that many could sail vast distances with neither oar nor more than a breath of wind.
+
+Since Anath was covered so much in mountain and seashore, they found the growing of crops hard and troublesome. For these they relied on the coastal nations, sometimes by fair trade, sometimes by force, and sometimes by deals in darkness with their pirates.
 
 ---
 
