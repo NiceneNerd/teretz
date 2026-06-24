@@ -1,4 +1,3 @@
-# Adversaria
 *Bits and pieces of lore that have not yet been incorporated fully into a narrative*
 
 **Ílnae**
