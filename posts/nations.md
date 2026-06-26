@@ -48,5 +48,13 @@ After the Sign of Wachüthmü, all who wished to explore, flee, or otherwise lea
 ![Umumdrí](../media/umimdri.png)
 <small>Tree city of Umimdrí</small>
 
-## 
+## Mormüin
 
+As the Addríelim settled down the Ellîb, they at last reached the Oëluímeth. 
+
+## Nyâsüm
+
+It came to pass that Mormüin became populous and prosperous, yet plagued by endless strife. The wars along their coasts, especially those with the Anathim, drove many to flee for peace. Others left the growing cities seeking quiet and freedom. Such wanderers moved west into the Ardíñapeth. Formerly its grassy plains held but few men, and these were shepherds and hunters. As more fled the troubles of Mormüin, the luxury of Addríel, the idolatry of Uméthrâ, or the disorder of Adir Chlíf, the people of the Ardíñapeth became the nation of Nyâsüm. Around this time a traveler brought to them the 6 last unicorns, rescued from the Yâneth Niünk, and these multiplied to fill the land. The people of Nyâsüm soon used the unicorns for all manner of need: the *méim* to work, the *thîm* to ride, the *eirim* for royal honors, and all of them to war. In time the Nyâsümim became superstitious, and many began to regard the unicorn as a sacred animal.
+
+| ![[../media/meim.png]] | ![[../media/thim.png]] | ![[../media/eirim.png]] |
+| ---------------------- | ---------------------- | ----------------------- |
