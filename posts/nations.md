@@ -50,7 +50,7 @@ After the Sign of Wachüthmü, all who wished to explore, flee, or otherwise lea
 
 ## Mormüin
 
-As the Addríelim settled down the Ellîb, they at last reached the Oëluímeth. 
+As the Addríelim settled down the Ellîb, they at last reached the Oëluímeth. Disputes over power and wealth in the city that grew up at the mouth of the river brought forth a war, and in the war Addríel lost its control of the mouth, forced to make a treaty with the newly formed nation of Mormüin. Mormüin slowly expanded down the coast, controlling most of the western shores of the Oëluímeth.
 
 ## Nyâsüm
 
