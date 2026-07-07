@@ -1,5 +1,5 @@
 ## Sketches of Tales
-- Jordan's adventure: tale of the Earth youth who fell through a pool and participated in the conquest of Drithu
+- Jordan's adventure: tale of the Earth youth who fell through a pool and participated in the conquest of Drithu ^c0ff8e
 - Conquest of Drithu: already mostly accounted for in [[../posts/druthu|druthu]]
 - The call of Tereth: already mostly accounted for in [[../posts/tereth|tereth]]
 - Elaphíl and the Battle of Andaimé: how Elpahíl the Hardy fell defending the River Tower from the Anathim. Needs detailed Anath-Aeírwá war context.
