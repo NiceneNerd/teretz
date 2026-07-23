@@ -57,13 +57,15 @@
 
 # Manuscript
 
+## Awake
+
 Cypress Taylor awoke very confused.
 
-There were strange noises, beepings that bothered him, and he wanted nothing more than for them to stop. He tried to look all around to see how to turn them off when there was a sudden pull and pain in his arm. Cypress looked down and realized there was a need in his vein, connected to a big bags of strange fluids. As the last dreamy cobwebs cleared from his mind, he realized where he was.
+There were strange noises and bothersome beepings, and he wanted nothing more than to stop them. He tried to look around to see how to turn them off when there was a sudden pull and pain in his arm. Cypress looked down and perceived a needle in his vein, connected to a big bag of strange fluids. As the last dreamy cobwebs cleared from his mind, he realized where he was.
 
 He was in a hospital.
 
-It took a few months for him to remember why, but soon it began to return. He remembered fighting, running, and the sudden headlights. And then he remembered how much everything hurt. Cypress winced, grabbed his ribs, and laid back down.
+It took a few moments for him to remember why, but soon it began to return. He remembered fighting, running, and sudden pavement. Then he remembered how much everything hurt. Cypress winced, grabbed his ribs, and laid back down.
 
 Only as he opened his eyes again did he see the man sitting in a chair across from his bed. He almost yelled, but something in the man's face suddenly set him calm. Curiosity replaced the initial surprise.
 
@@ -87,36 +89,46 @@ At this point Cypress had very little idea what Mr. Jordan was saying, but he de
 
 Cypress, not quite understanding but sure he did in fact want to know who Mr. Jordan was, quickly replied, "Yes, sir. I'm a bit confused."
 
-## ~~Chapter 1: Among Blueberries~~
+"Well," he cleared his throat and began, "I was driving down I-10 when I saw a great commotion afoot. I saw a car parked on the edge of the road, one man getting out, and another man, very old but built like a Greek god, who ran pushed the first man back into the car, got in the driver's seat, and sped away. Then I got closer and I saw you laying on the ground beside the road, all bloody and messy. I actually thought you were dead at first! But I checked your breathing, and you were very much still alive. So I loaded you into my car and brought you here."
 
-~~"I don't like blueberries! They're all mushy and grainy."~~
+Cypress stared for a moment. He know for sure who the old man like a Greek god was. He did not have any idea who the other man was, where the car came from, or how he had ended up on the ground. As he thought about these questions, he realized that Mr. Jordan was looking at him intently, his eyes gleaming with amused curiosity, and Cypress realized he probably needed to respond.
 
-~~Cypress turned from his mother and the fresh bowl of dusty purple treats on the bar, hopped from his stool in a wholly unnecessary arc, and set his feet toward his bedroom.~~
+"I'm afraid I don't remember much about what happened, but thank you helping me, sir. I am wondering, though—do you know if my parents are here?"
 
-~~"Cypress Taylor!"~~
+As soon as Cypress asked the question, he realized how dumb it must sound. *The man just found me on the side of the road,* he thought, *and didn't know my name until just now. Of course they're not coming yet!* Mr Jordan, however, just grinned.
 
-~~The boy's mother, grey-haired with a face accustomed to kindness but occupied with a wholly different emotion at the moment, moved around the bar and reached toward him. Cypress, being well-raised, quickly stopped walking and turned back toward her.~~
+"They are not quite yet! I believe it will be about another hour or so before they arrive. As I understand they are in particularly dreadful traffic."
 
-~~"You are ten years old. Tell me, did we never in ten years tell you how to say 'No, thank you' without being rude?"~~
+At this Cypress was visibly perplexed.
 
-~~"I just…" he began, but she cut him off.~~
+"Beg your pardon, sir, but how did you know who they are? I only just told you my name now."
 
-~~"Besides, since when don't you eat blueberries? I've put blueberries in your snacks, in your pancakes, in your smoothies, in your stockings, and just about everywhere else in your life since the day you were weaned."~~
+Mr. Jordan smiled once more, looking thoroughly amused with himself. "As it so happens, young Master Taylor, I already knew who your parents were before I even found you. In fact, I was on my way to visit them this very trip!"
 
-~~Here Cypress knew a lecture was coming. He loved his mom, and he respected her, too, but when she started a certain kind of speech, often he thought, *I got it the first time she said it, and I already said I was sorry. Does she really have to say it ten more times?* He braced himself to apologize at the first opportunity and hope he could end things there. *Besides*, he thought, *I guess I was a _little_ rude*.~~
+Cypress laid back down in his bed, covered his face, and tried to settle his confusion. Who was this guy? Why was he on his way to visit his parents? 
 
-~~"Every time we ran out of baby food all we gave you was mashed blueberries! The only person I've ever heard complain about blueberries in this household is…"~~
+Besides these most obvious questions, Cypress found himself wondering something deeper and quieter. He had the strangest feeling that Mr. Jordan might already know things about what had happened to him over the last few days. Part of him felt as though this should frighten him. Yet, for a reason he could hardly explain, Cypress also thought, perhaps, that he already trusted him. Indeed, there was *something* about Mr. Jordan that seemed invisibly to glow with the peculiar brightness of the air Cypress had only recently breathed for the first time.
 
-~~She stopped. She did not quite choke up, but Cypress could see avoiding that was probably the exact reason she stopped. It didn't matter. He knew perfectly well what she was about to say.~~
+Such thoughts as these swirled about in Cypress' head for some time, though whether it was for ten seconds or ten minutes he could hardly have told you. His exhaustion and pain kept sending his attention floating, so that just when he thought he knew something, he began to dream of incongruities like Mr. Jordan teaching him history while he was missing an essay, only then to suddenly remember where he was. His attention only fully returned when Mr. Jordan spoke again.
 
-~~Anna.~~
+"I am sorry, dear boy, if I have frightened you. Be assured I can explain more about my business with your parents if you need it. But I daresay you already know more about it than you probably think. In fact, seeing as I perhaps saved your life, I hope you will not think it too much for me to ask you about how you ended up in the condition I found you in."
 
-~~Cypress saw his mother's eyes cloud as realization dawned on her. He could tell she was struggling with what to say next, so he decided to give her a way out.~~
+At this question Cypress awoke fully from his drifting into daydreams. It was such a strange question, but he almost felt as though he should answer it. On the other hand, what were the chances he would be believed? Plus, he did not remember how he actually ended up injured on the ground, however much he knew about the circumstances that surrounded it.
 
-~~"I'm sorry, Mom. I just meant I don't really feel like any today. Should I just go finish my reading instead?"~~
+"I don't really remember," Cypress said sheepishly, cringing a bit at the feeling of half-truth, as an honest child will.
 
-~~She took a moment to respond, but then nodded.~~
+"*What* don't you remember, Master Taylor? Or perhaps a better question, what *do* you remember? Surely your memory has not wholly deserted you?" Mr. Jordan asked all these questions without quite losing his grin. His face was slightly knowing, slightly humorous, but it was also clear his questions were entirely in earnest.
 
-~~"Yes, of course. I'll put these in the freezer."~~
+Cypress found he could not imagine wholly resisting. He knew if Mr. Jordan kept asking, he would tell him. Still, he wasn't quite ready. How would anyone explain everything Cypress had just been through? How could anyone even accept it?
 
-~~So Cypress jogged away to his room, leaving his mom standing pensive in the kitchen.~~
+"I hope you don't take this the wrong way, Mr. Jordan, but I'm not sure you'd believe me if I told you."
+
+Mr. Jordan's reaction came to Cypress as such a surprise he jolted and nearly fell out of the bed. For just a few moments the man only continued his knowing grin, but suddenly the calm amusement gave way to uproarious laughter. It continued for the better part of the minute before Cypress could see tears rolling down the man's cheeks, and Mr. Jordan tried to wipe them away with one hand while keeping himself from falling to the floor on the other. Slowly, the laughter subsided into chuckles, spaced like the last minute pops of the laziest kernels in the popcorn bag, and Cypress, bewildered, could think of nothing to say.
+
+"I'm sorry, dear boy," Mr. Jordan began, still trying to quell the remaining stray chuckles. "I just think of how many times I had to say that to my own wife before telling her one of the most important stories in my own life! I can assure you, Master Taylor, that if there is a man alive on God's green earth who might believe whatever tale you have to tell, he is sitting here before you. I am not prejudiced by the ordinary, or even the comprehensible! I know the world, or rather *all* the worlds, can be far stranger than we think."
+
+Surprised, confused, unexpectedly trusting, and not a little comforted, Cypress began his tale.
+
+## Sent
+
+"It all started about a couple week ago," Cypress began. "See, I live on a blueberry farm in Monticello, but my grandparents live in Dowling Park. 
