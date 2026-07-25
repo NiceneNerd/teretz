@@ -73,9 +73,9 @@ Only as he opened his eyes again did he see the man sitting in a chair across fr
 
 The man across from Cypress seemed very old. Cypress, at ten years old, may not be a reliable guide in these matters, but he thought the man looked at least 80. The nurses, on the other hand, said among themselves the fellow looked rather good for 60. In any case, he was tall, almost thin, with gray hair that looked as though it might have been neat several hours ago but had quickly rebelled. He wore a tweed jacket over a wrinkled white dress shirt and khakis, but these were hard to notice except insofar as they framed a big, floppy, green bow tie. 
 
-The man smiled and answer, "Jordan. You can call me Mr. Jordan."
+The man smiled and answered, "Jordan. You can call me Mr. Jordan."
 
-"Pleased to meet you, Mr. Jordan. My name is Cypress. Cypress Taylor, " he replied.
+"Nice to meet you, Mr. Jordan. My name is Cypress. Cypress Taylor, " he replied.
 
 Mr. Jordan almost chuckled and then said, "And I you, Master Taylor. And I must say I am impressed with your manners. There you are, injured within an inch of your life, and here I am, a complete stranger, and you take the time to greet me properly before so much as asking a single question."
 
@@ -91,7 +91,7 @@ Cypress, not quite understanding but sure he did in fact want to know who Mr. Jo
 
 "Well," he cleared his throat and began, "I was driving down I-10 when I saw a great commotion afoot. I saw a car parked on the edge of the road, one man getting out, and another man, very old but built like a Greek god, who ran pushed the first man back into the car, got in the driver's seat, and sped away. Then I got closer and I saw you laying on the ground beside the road, all bloody and messy. I actually thought you were dead at first! But I checked your breathing, and you were very much still alive. So I loaded you into my car and brought you here."
 
-Cypress stared for a moment. He know for sure who the old man like a Greek god was. He did not have any idea who the other man was, where the car came from, or how he had ended up on the ground. As he thought about these questions, he realized that Mr. Jordan was looking at him intently, his eyes gleaming with amused curiosity, and Cypress realized he probably needed to respond.
+Cypress stared for a moment. He knew for sure who the old man like a Greek god was. He did not have any idea who the other man was, where the car came from, or how he had ended up on the ground. As he thought about these questions, he realized that Mr. Jordan was looking at him intently, his eyes gleaming with amused curiosity, and Cypress realized he probably needed to respond.
 
 "I'm afraid I don't remember much about what happened, but thank you helping me, sir. I am wondering, though—do you know if my parents are here?"
 
@@ -127,8 +127,32 @@ Mr. Jordan's reaction came to Cypress as such a surprise he jolted and nearly fe
 
 "I'm sorry, dear boy," Mr. Jordan began, still trying to quell the remaining stray chuckles. "I just think of how many times I had to say that to my own wife before telling her one of the most important stories in my own life! I can assure you, Master Taylor, that if there is a man alive on God's green earth who might believe whatever tale you have to tell, he is sitting here before you. I am not prejudiced by the ordinary, or even the comprehensible! I know the world, or rather *all* the worlds, can be far stranger than we think."
 
-Surprised, confused, unexpectedly trusting, and not a little comforted, Cypress began his tale.
+Cypress looked up at the man, his last doubts took unexpected leave, and he began his tale.
 
 ## Sent
 
-"It all started about a couple week ago," Cypress began. "See, I live on a blueberry farm in Monticello, but my grandparents live in Dowling Park. 
+"It all started about a couple weeks ago," Cypress began. "See, I live on a blueberry farm in Monticello, but my grandparents live in Dowling Park. Every summer, my dad drops us off there to stay when them for a couple weeks. We're supposed to help out around the yard and the house and stuff like that."
+
+"A very good way to spend your summer, I should think," Mr. Jordan added.
+
+"Yes, sir, I guess, but usually we only work for a couple days before Grandpa starts giving us 'jobs' that are *really* games. And then we start watching Andy Griffith and baking cookies, and Grandma keeps saying it's too hot for us to work outside."
+
+Mr. Jordan raised his finger to interrupt. "Excuse me, but I do find myself wondering: you keep saying 'we.' Who else goes with you?"
+
+With this question Cypress faltered.
+
+"Well, I guess I *normally* I go with my sister."
+
+"Normally? Was something different this summer?" Mr. Jordan looked especially interested now. Cypress wondered for a second why, but he was more distracted by how hard it felt to answer.
+
+"Um, yes, sir. I normally go with my sister. Her name is Anna. But she, uh, well, we don't know where she is anymore." Cypress dropped his gaze into his lap and tried for a moment to make sure the stranger wouldn't see any tears forming. He did not catch the look of recognition on Mr. Jordan's face.
+
+"She is missing?"
+
+"Yes, sir. It was a couple months ago. See, she's nineteen, and she goes to college now. She was supposed to take some summer classes this year—actually, I think they were going to start last week—so she wasn't gonna' be able to come down with us. So instead she went to Grandpa's house for a week right when she got out of school. But, well, we don't know what happened after that. She left and never got back to school. My mom and dad have been calling and calling, and even the police looked for her! But no one knows where she is."
+
+Mr. Jordan looked at Cypress with compassion but also something else. Cypress thought he did not look surprised at all, and in fact he caught the man nodding to himself as he got up and checked his phone. Mr. Jordan then turned back to Cypress.
+
+"Goodness, dear boy, I am most sorry to hear that. That must be truly awful for your family. But I should not have interrupted your tale with my own curious questions. Please, continue where you were."
+
+"Thank you, sir. So, I guess the important thing is when I'm with my grandparents I always go to their church, Brewer Lake. "
