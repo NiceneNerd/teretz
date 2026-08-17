@@ -125,7 +125,7 @@ Cypress found he could not wholly resist. He knew if Mr. Jordan kept asking, he 
 
 Mr. Jordan's reaction came to Cypress with such surprise he jolted and nearly fell out of bed. For a few moments the man only continued his knowing grin, but suddenly the calm amusement gave way to uproarious laughter. It continued for the better part of a minute before Cypress could see tears rolling down the man's cheeks, and Mr. Jordan tried to wipe them away with one hand while keeping himself from falling to the floor on the other. Slowly, the laughter subsided into chuckles, spaced like the last minute pops of the most sluggish kernels in the popcorn bag, and Cypress could think of nothing to say.
 
-"I'm sorry, dear boy," Mr. Jordan began, still trying to quell the remaining stray chuckles. "I just think of how many times I said just that to my own wife before telling her one of the most important tales of my own life! I can assure you, Master Taylor, that if any man alive on God's green earth might believe whatever you may tell, he is sitting here before you. I am not prejudiced by the ordinary, or even the comprehensible! I know the world, or rather *all* the worlds, can be strange indeed."
+"I'm sorry, child," Mr. Jordan began, still trying to quell the remaining stray chuckles. "I just think of how many times I said precisely that to my own wife before telling her one of the most important tales of my own life! I can assure you, Master Taylor, that if any man alive on God's green earth might believe whatever you may tell, he is sitting here before you. I am not prejudiced by the ordinary, or even the comprehensible! I know the world, or rather *all* the worlds, can be strange indeed."
 
 Cypress looked up at the man, his last doubts took unexpected leave, and he began his tale.
 
@@ -161,3 +161,17 @@ Mr. Jordan looked at Cypress with compassion but also something else. Cypress th
 
 "I guess, but I always thought it was sort of weird. Anyway, the first time we went to church this summer, I saw him, and then he called my name. It was weird; I don't think I ever talked to him before. But he said he was wondering where my sister was, because he really liked talking to her. So I just told him she wasn't with us this summer, because I didn't want to explain everything, but he kept asking more questions, so I had to tell him that she was gone."
 
+Mr. Jordan looked quite intently at Cypress before proceeding. "And what did he make of that?"
+
+Cypress looked down again. "He talked about being sorry for us and how bad he felt, but he seemed really weird about it. And it didn't really seem like it surprised him, either. At one point I thought he was, like, *annoyed*, but that didn't make any sense. And then next week he wanted to talk to me again. He asked me if I'd like to make a little money this summer by helping work around his house. I was gonna' tell him 'no', but my grandma heard us talking and made me do it anyway. So then every day they dropped me off with him after breakfast to work with him until lunch. The first day I just weeded his garden, and he let me pick his oranges for a snack. But the next morning he kept me working in the house and told me stories."
+
+Mr. Jordan raised an eyebrow. "Oh? What kinds of stories?"
+
+Cypress glanced down again and began to explain. "Well, stories about made up places. Or at least that's what I thought they were. He told me about places with weird names like Aeirwa and Menerach and told me about how elves helped build them so that they could have slaves. He also told me about a great magician who wanted to help everyone with his power and "
+
+
+## Alternate
+
+Cypress Taylor was bored. He had been in the car for over an hour, and he had already finished *The Magician's Nephew* for the third time this year. If he had felt the inspiration, he might have written some more of the time travel story he was working on, but of course writing is uncomfortable in the car, and he felt a little tired anyway. Normally on a drive like this he might talk to his sister, who, being 19, knew quite a lot. But not even this was an option on this particular drive.
+
+Cypress turned his gaze out the window.
