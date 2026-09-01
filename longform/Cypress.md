@@ -174,4 +174,4 @@ Cypress glanced down again and began to explain. "Well, stories about made up pl
 
 Cypress Taylor was bored. He had been in the car for over an hour, and he had already finished *The Magician's Nephew* for the third time this year. If he had felt the inspiration, he might have written some more of the time travel story he was working on, but of course writing is uncomfortable in the car, and he felt a little tired anyway. Normally on a drive like this he might talk to his sister, who, being 19, knew quite a lot. But not even this was an option on this particular drive.
 
-Cypress turned his gaze out the window.
+Cypress turned his gaze out the window. Outside he could see little else but trees beyond the interstate. He often wondered about the forests that lay past the edge of these long, featureless roads. Every day, thousands of cars drive past hundreds of miles of foliage, but, he always wondered, how many of them ever stop and see the woods? How many people really know what's in there?
